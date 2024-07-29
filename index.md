@@ -8,3 +8,8 @@
 const string = "Hello World!";
 const gnirts = string.split('').reverse().join('');
 ```
+- [x] Added markdown headers
+- [x] Added markdown image
+- [x] Added markdown code block
+- [x] Added markdown task list
+- [ ] Continue and finish markdown tutorial 
