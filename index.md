@@ -3,3 +3,8 @@
 ### This is my H3 header
 
 ![An image of Yactocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+const string = "Hello World!";
+const gnirts = string.split('').reverse().join('');
+```
